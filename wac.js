@@ -38,9 +38,7 @@ function moveMole() {
 }
 
 moveMole();
-////please dont mind this, its not part of the code
 
-//this function times the game
 function countDown() {
   currentTime--;
   timeLeft.textContent = currentTime;
