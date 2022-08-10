@@ -39,6 +39,7 @@ function moveMole() {
 
 moveMole();
 
+//this function times the game
 function countDown() {
   currentTime--;
   timeLeft.textContent = currentTime;
